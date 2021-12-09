@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+}
+
+nav a {
+    margin: 15px;
+}
