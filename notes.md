@@ -25,4 +25,4 @@
 3. Screenshot of your app
 
 Example Screenshot code:
-![Screenshot](.assets/images/Cature.PNG)
+![Screenshot](.assets/images/Capture.PNG)
