@@ -4,3 +4,4 @@ This is my portfolio. It is not the best. The main purpose to to give details ab
 
 link to app: https://mizzkarenbabii.github.io/KarensPortfolio/
 screenshot of app: 
+![portfoliopic](https://user-images.githubusercontent.com/93722113/145747709-3a99e40a-a7a1-4624-a292-e824f8b148a8.png)
