@@ -26,15 +26,19 @@ nav a {
     color: rgb(231, 98, 83);
 }
 
+#my-projects {
+    border-left: 5px solid blue;
+}
+
 #about-me img{
     width: 20%;
     height: 20%;
-    margin-left: 100px;
+    margin-left: auto;
 }
 
 #about-me p{
     text-align: left;
-    color: rainbow;
+    color: hotpink;
 }
 
 #my-projects{
@@ -42,12 +46,13 @@ nav a {
 }
 
 #horiseon img{
-    width: 500px;
+    width: 800px;
     border: 5px solid rgb(92, 92, 206);
     padding: auto;
     margin: auto;
 }
 
+  
 
 #watch-the-box img{
     width: 200px ;
@@ -59,8 +64,8 @@ nav a {
     width: 400px;
     height: 200px;
     border: 5px solid rgb(92, 92, 206);
-    margin-left: 400px;
-    margin-bottom: 800px;
+    margin-left: auto;
+    margin-bottom: auto;
 }
 
 #contact-me p{
